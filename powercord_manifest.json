@@ -1,0 +1,8 @@
+{
+	"name": "sus",
+	"description": "Change home icon to Red from Among Us",
+	"version": "1.0.0",
+	"author": "Spectrapulse#2104",
+	"license": "EUPL 1.2",
+	"theme": "style.scss"
+}
